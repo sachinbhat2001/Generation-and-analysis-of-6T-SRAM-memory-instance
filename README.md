@@ -1,0 +1,1 @@
+# Generation-and-analysis-of-6T-SRAM-memory-instance
